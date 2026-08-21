@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mateus Soares
+# Hi, I'm Mateus Soares
 
 🎓 **Estudante de Desenvolvimento de Sistemas | Full-Stack em formação**  
 🇧🇷 Brasil - Rio Grande do Sul
@@ -42,9 +42,6 @@ Gosto de resolver problemas, aprender coisas novas todos os dias e evoluir a cad
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
----
-
 
 ---
 
